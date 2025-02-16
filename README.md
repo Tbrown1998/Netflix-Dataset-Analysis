@@ -15,8 +15,7 @@ This project conducts an in-depth analysis of Netflix's movies and TV shows data
 ## Tools Used
 - **Data Preparation & Loading** - Microsoft Excel
 - **DBMS:** PostgreSQL 
-- **Query Language:** SQL  
-- **Data Visualization:** Power BI (Future Work)
+- **Query Language:** SQL
 
   
 ## Dataset

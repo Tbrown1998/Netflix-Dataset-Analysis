@@ -12,10 +12,11 @@ This project conducts an in-depth analysis of Netflix's movies and TV shows data
 - List and analyze content based on release years, countries, and durations.
 - Explore and categorize content based on specific criteria and keywords.
 
-## Tools Used
+## Technology Stack
 - **Data Preparation & Loading** - Microsoft Excel
 - **DBMS:** PostgreSQL 
 - **Query Language:** SQL
+- **SQL Queries**: DDL, DML, Aggregations, Joins, Subqueries, Window Functions 
 
   
 ## Dataset

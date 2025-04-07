@@ -25,7 +25,7 @@ This project explores Netflix’s vast library of movies and TV shows using SQL,
 
 ```mermaid
 graph TD
-    A[Raw Data] --> B[SQL Cleaning]
+    A[Raw Data] --> B[SQL Database]
     B --> C[SQL Cleaning]
     C --> D[Analytical Queries]
     D --> E[Key Insights & Findings]
